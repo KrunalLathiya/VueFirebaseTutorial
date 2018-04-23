@@ -8,7 +8,12 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
-    "vue": "^2.5.13"
+    "bootstrap": "^4.1.0",
+    "firebase": "^4.12.1",
+    "nprogress": "^0.2.0",
+    "vue": "^2.5.13",
+    "vue-router": "^3.0.1",
+    "vuefire": "^1.4.5"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "^3.0.0-beta.6",
